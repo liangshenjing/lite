@@ -6,4 +6,4 @@
 #结果
 
 
-![222]()
+![222](https://github.com/liangshenjing/lite/blob/master/22222.png?raw=true)
